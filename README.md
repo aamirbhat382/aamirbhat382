@@ -39,15 +39,8 @@
 ---
 
 
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
 
-[website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CoderGyan
-[facebook]: https://www.facebook.com/codersgyan
-[youtube]: https://www.youtube.com/c/codersgyan
-[instagram]: https://www.instagram.com/codersgyan
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA
-[jsplaylist]: https://www.youtube.com/watch?v=KlLdNSvmoKI&list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz
-[cssplaylist]: https://www.youtube.com/watch?v=wTyyIGZwJg0&t=2487s
-[pizzaseries]: https://www.youtube.com/watch?v=RqiU5nzj_nU
-
+[website]: https://www.aamirbhat.xyz/
+[twitter]: https://twitter.com/aamirbhat382
+[facebook]: https://www.facebook.com/aamirbhat382
+[instagram]: https://www.instagram.com/aamirbhat382
