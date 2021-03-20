@@ -1,5 +1,5 @@
 -  Hi, I’m Aamir Hussain
-# I'm a Full-stack Software Developer and Javascript Enthusiast!
+# I'm a Full-stack  Developer 
 - 👀 I’m interested in Codeing
 - 🌱 I’m currently learning Python and Javascript 
 - 💞️ I’m looking to collaborate with other Developers
